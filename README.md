@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/feyfry">Howdy! I'm Feyyzzz | 通常被称为 fey(飞)。</a> <img src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="30" margin-top="5"/></h1>
+<h1 align="center"><a href="https://github.com/feyfry">Howdy! I'm Feyz | 通常被称为 fey(飞)。</a> <img src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="30" margin-top="5"/></h1>
 
 <h4 align="center">
 <p align="center">
@@ -11,7 +11,7 @@
 </h4>
 
 ### 😄 Few Things About Me.
-- 👋 Hi, I’m @feyfry
+- 👋 Hi, I’m Feyz
 - 👀 I'm interested in Web Dev, Apps Dev, Machine Learning, Cybersecurity, AI, and Blockchain.
 - 🌱 I'm presently studying Javascript and Rust Programming Language.
 - ⚡ Always learning!
