@@ -3,7 +3,7 @@
 <h4 align="center">
 <p align="center">
  
-<a href=https://www.facebook.com/feyfry35><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target=_blank></a>
+<a href=https://www.facebook.com/feyfry35><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href=https://discord.com/users/611431943137001473><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://t.me/feyfry"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  
