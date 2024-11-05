@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/vb.net-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Basic-%237A1FA2.svg?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
