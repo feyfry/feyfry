@@ -11,7 +11,7 @@
 </h4>
 
 ### 😄 Few Things About Me.
-- 👋 Hi, I’m Feyz
+- 👋 Hi, I’m Faiz
 - 👀 I'm interested in Web Dev, Apps Dev, Machine Learning, Cybersecurity, AI, and Blockchain.
 - 🌱 I'm presently studying Javascript and Rust Programming Language.
 - ⚡ Always learning!
