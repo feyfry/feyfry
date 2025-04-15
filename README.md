@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/feyfry">Howdy! I'm Faiz | 通常被称为 fey(飞)。</a> <img src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="30" margin-top="5"/></h1>
+<h1 align="center"><a href="https://github.com/feyfry">Howdy! I'm Feyz | 通常被称为 fey(飞)。</a> <img src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="30" margin-top="5"/></h1>
 
 <h4 align="center">
 <p align="center">
